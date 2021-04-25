@@ -1,7 +1,3 @@
-# woowacourse-learning-log-level1
-Level 1 학습로그를 정리한 저장소입니다. 
-
-
 # 로또미션 학습로그 
 
 ## [OOP] 원시값 포장 - 3
